@@ -1,0 +1,21 @@
+{
+    "name": "pengchat-web",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "core-js": "^3.27.1",
+        "socket.io-client": "^2.5.0",
+        "vue": "^3.2.45",
+        "vue-router": "^4.1.6",
+        "vuex": "^4.1.0"
+    },
+    "devDependencies": {
+        "@vue/cli-service": "~4.5.0",
+        "@vue/cli-plugin-router": "^5.0.8",
+        "@vue/cli-plugin-vuex": "^5.0.8"
+    }
+}
